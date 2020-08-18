@@ -1,0 +1,6 @@
+DFU 诀单捞飘侩 zip 颇老 积己过 
+D:\>
+nrfutil dfu genpkg --application bbbbb.hex --application-version 0xffffffff --dev-type 0xffff --dev-revision 0xffff --sd-req 0xfffe bbbbb.zip
+
+
+nrfutil dfu genpkg --application F1_1_0_0_2.hex --application-version 0xffffffff --dev-type 0xffff --dev-revision 0xffff --sd-req 0xfffe F1_1_0_0_2_test.zip

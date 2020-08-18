@@ -1,0 +1,16 @@
+..\object\nrf_delay.o: ..\..\components\drivers_nrf\delay\nrf_delay.c
+..\object\nrf_delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\compiler_abstraction.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf52.h
+..\object\nrf_delay.o: ..\..\components\toolchain\CMSIS\include\core_cm4.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\object\nrf_delay.o: ..\..\components\toolchain\CMSIS\include\core_cmInstr.h
+..\object\nrf_delay.o: ..\..\components\toolchain\CMSIS\include\cmsis_armcc.h
+..\object\nrf_delay.o: ..\..\components\toolchain\CMSIS\include\core_cmFunc.h
+..\object\nrf_delay.o: ..\..\components\toolchain\CMSIS\include\core_cmSimd.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\system_nrf52.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf52_bitfields.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf51_to_nrf52.h
+..\object\nrf_delay.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf52_name_change.h
+..\object\nrf_delay.o: ..\..\components\drivers_nrf\delay\nrf_delay.h

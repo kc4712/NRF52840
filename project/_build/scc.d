@@ -1,0 +1,16 @@
+.\_build\scc.o: ..\application\scc.c
+.\_build\scc.o: ../include/define.h
+.\_build\scc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\scc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf52.h
+.\_build\scc.o: ..\..\components\toolchain\CMSIS\include\core_cm4.h
+.\_build\scc.o: ..\..\components\toolchain\CMSIS\include\core_cmInstr.h
+.\_build\scc.o: ..\..\components\toolchain\CMSIS\include\cmsis_armcc.h
+.\_build\scc.o: ..\..\components\toolchain\CMSIS\include\core_cmFunc.h
+.\_build\scc.o: ..\..\components\toolchain\CMSIS\include\core_cmSimd.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\system_nrf52.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf52_bitfields.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf51_to_nrf52.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\nrf52_name_change.h
+.\_build\scc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include\compiler_abstraction.h
